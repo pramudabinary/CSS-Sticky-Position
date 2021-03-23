@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#floor1{
+    min-height: 100vh;
+    width: 100%;
+    background-color: red;
+    overflow: hidden;
+}
+#floor2{
+    min-height: 100vh;
+    width: 100%;
+    background-color: yellow;
+    overflow: hidden;
+}
+#floor3{
+    min-height: 100vh;
+    width: 100%;
+    background-color: hotpink;
+    overflow: hidden;
+}
+#floor4{
+    min-height: 100vh;
+    width: 100%;
+    background-color: black;
+    overflow: hidden;
+    color: white;
+}
+#floor1 .main{
+    position: relative;
+    left: 560px;
+    top: 200px;
+    right: 0;
+    margin: auto;
+}
+#floor1 .header{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: cyan;
+}
+#floor1 .header h1{
+    margin: 10px;
+}
+#floor1 .main h1{
+    font-size: 80px;
+}
+#floor2 .main{
+    position: relative;
+    left: 560px;
+    top: 200px;
+    right: 0;
+    margin: auto;
+}
+#floor2 .header{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: blue;
+}
+#floor2 .header h1{
+    margin: 10px;
+}
+#floor2 .main h1{
+    font-size: 80px;
+}
+#floor3 .main{
+    position: relative;
+    left: 560px;
+    top: 200px;
+    right: 0;
+    margin: auto;
+}
+#floor3 .header{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: darkcyan;
+}
+#floor3 .main h1{
+    font-size: 60px;
+}
+#floor3 .main{
+    position: relative;
+    left: 580px;
+    top: 220px;
+    right: 0;
+    margin: auto;
+}
+#floor3 .header{
+    padding: 1px;
+    background-color: cyan;
+}
+#floor3 .header h1{
+    margin: 10px;
+}
+#floor3 .main h1{
+    font-size: 80px;
+}
+#floor4 .main{
+    position: relative;
+    left: 560px;
+    top: 200px;
+    right: 0;
+    margin: auto;
+}
+#floor4 .header{
+    padding-top: 1px;
+    padding-bottom: 1px;
+    background-color: teal;
+}
+#floor4 .header h1{
+    margin: 10px;
+}
+#floor4 .main h1{
+    font-size: 80px;
+}
